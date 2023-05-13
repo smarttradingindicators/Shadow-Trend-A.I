@@ -1,6 +1,6 @@
 # 🚀 Shadow Trend Indicator A.I
 
-![Shadow Trend Indicator](Shadow%20Trend%20Indicator%201D.png)
+![Shadow Trend Indicator](Shadow%20trend%201D.png)
 
 Welcome to the extraordinary world of the Shadow Trend Indicator, a trailblazing trading tool, armed with artificial intelligence and advanced filtering techniques for unrivaled financial market analysis. The Shadow Trend Indicator provides real-time, visually compelling signals that empower traders to capitalize on lucrative opportunities in the financial markets.
 
