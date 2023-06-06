@@ -39,6 +39,13 @@ Trading involves risk. The Shadow Trend Indicator serves as a supplementary tool
 
 We're excited to connect with you! For questions, feedback, or suggestions, please reach out to us at support@smarttradingindicators.com.
 
+## 📱 Social Media
+
+Follow us on our social media platforms for the latest updates and insights:
+
+- [Instagram: @smarttradingindicators](https://instagram.com/smarttradingindicators?igshid=OGQ5ZDc2ODk2ZA==)
+- [Twitter: @smartindicators](https://twitter.com/smartindicators)
+
 ## 🔒 Note on Code Access
 
 The code for the Shadow Trend Indicator is proprietary and not accessible publicly. For inquiries about the code or if you need further information, please don't hesitate to reach out to us at support@smarttradingindicators.com. We appreciate your understanding.
